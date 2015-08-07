@@ -1,0 +1,4 @@
+package: netaddr
+script:
+  - conda build .
+build_targets: conda
